@@ -11,7 +11,7 @@
 - ☕️ Fun fact: I'm not a Nerd, even a Geek, just a simple Jr. Developer with too much curious mind!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
-style="max-width:40%;" align="middle">
+style="max-width:40%" align="center">
 
 
 ![Eros GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErosMLima&show_icons=true&theme=radical)
