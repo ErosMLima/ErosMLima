@@ -10,7 +10,9 @@
 - 📲 How to reach me: Linkedin, Zoom, Skype, Messenger, Gmail and Telegram.
 - ☕️ Fun fact: I'm not a Nerd, even a Geek, just a simple Jr. Developer with too much curious mind!
 
-<img src="https://github-readme-stats.vercel.app/api?username=ErosMLima&&show_icons=true&title_color=ffffff&&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="max-width:40%;" align="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
+style="max-width:40%;" align="middle">
+
 
 ![Eros GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErosMLima&show_icons=true&theme=radical)
 
