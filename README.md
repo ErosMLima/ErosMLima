@@ -1,6 +1,6 @@
 <h1>⚡️ErosMLima</h1> 
   
-  This is my profile:
+  This is my profile: ★★★★★
 
 - 🔭 I’m currently working on Study for to be ready to make any app and join some new dev. team for work for a long time...
 - 🎯 I’m currently learning Pyhon, JavaScript, PHP, Java, .NET, C#, Web, Mobile, Servers, Databases, Ethical Hacking...🌱
@@ -16,3 +16,5 @@ style="max-width:100%;" align="middle">
 
 
 ![Eros GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosMLima&show_icons=true&theme=radical)
+
+ #GoGoGo 🚀 🚀 🚀
