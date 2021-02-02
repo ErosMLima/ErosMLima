@@ -10,10 +10,9 @@
 - 📫 How to reach me: Linkedin...
 - ⚡ Fun fact: I'm not a Nerd, even a Geek, just a simple Jr.Developer with too much curirous mind!...
 
-[Linkedin - ErosMLima]
-[https://www.linkedin.com/in/%E2%9A%A1%EF%B8%8Feros-m-lima-57a405198/]
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=ErosMLima&&show_icons=true&title_color=ffffff&&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="max-width:142%;" align="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
+<img src="https://github-readme-stats.vercel.app/api?username=ErosMLima&layout=compact&theme=jolly"
 style="max-width:100%;" align="middle">
