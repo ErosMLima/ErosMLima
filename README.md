@@ -1,7 +1,6 @@
-### Hi there 👋
+Hello there 👋
 
-<!--
-**ErosMLima/ErosMLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eros and this is my profile at GitHub:
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm not a Nerd, even a Geek!...
--->
+
