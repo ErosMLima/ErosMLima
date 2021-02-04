@@ -11,7 +11,7 @@
 
 <h1>⚡️ErosMLima</h1> 
 
-## Hello, How are you? &#129311;&#127995;&#129492;&#127995;
+## Hello, How are you? 😀🗺️
 
 👨 My name is **Eros MLima**, I have 35 years, I am focused on the area of **Front-end / Back-end / Mobile / Cybersecurity** at the time I'm a generalist developer.🎓
 
@@ -34,7 +34,8 @@ Some of my skills and knowledges like Jr. Developer :
 
 <!-- Contacts -->
 
-Contacts: ★★★★★
+**Contacts: ★★★★★**
+
 - 💬 Ask me about at website4creators@gmail.com or
 - 📲 How to reach me: Linkedin, Zoom, Skype, Messenger, Gmail or Telegram.
 - ☕️ Fun fact: I'm not a Nerd, even a Geek, just a simple Jr. Developer with too much curious mind!
