@@ -17,21 +17,25 @@
 
 📚 I'm studying [Computer Sciences and Software Engineering](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures about my goals. I'm developing applications using the tecnologies like: **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **C#**, **NoSQL**, **Django**, **Flask** a **MongoDB**.
 
-## Skills 💻
+## Skills 
 
 <!-- Skills -->
 Some of my skills and knowledges like Jr. Developer :
-- 👔 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid, Sass), JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 4+, React.
-- 🔠 **Languages**: JavaScript, Python, PHP, .NET, C#, Java
+- 👔 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 4+, React...
+- 💻 **Back-end**: Django, Flask, NodeJS, ExpressJS, AdonisJS, Laravel, CodIgniter, Zend...
+- 📲 **Mobile**: React Native, Swift, Objective-C, Xcode, Xamarin, Thunkable, Kotlin...
+- 🔠 **Languages**: JavaScript, Python, PHP, .NET, C#, Java...
 - 🏷️ **Versioning**: Git, GitHub and Bitbucket.
 - 🧪 **Tests and Automatization**: NPM, Jest and Gulp.
 - 🔰 **Databases**: Language SQL, NoSQL, MongoDB, SQLite, OracleDB and MySQL.
-- 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10.
+- 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10, Kali and MacOs.
 - ⚜️ **Architecture**: Rest, APIS, OOP and UML.
 - 📈 **Software Egineering**: Requirements gathering, UML, Scrum and Kanban.
 
+<!-- Contacts -->
+
 Contacts: ★★★★★
-- 💬 Ask me about at website4creators@gmail.com.
+- 💬 Ask me about at website4creators@gmail.com or
 - 📲 How to reach me: Linkedin, Zoom, Skype, Messenger, Gmail or Telegram.
 - ☕️ Fun fact: I'm not a Nerd, even a Geek, just a simple Jr. Developer with too much curious mind!
 
