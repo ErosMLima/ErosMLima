@@ -15,7 +15,7 @@
 
 👨 My name is **Eros MLima**, I have 35 years, I am focused on the area of **Front-end / Back-end / Mobile / Cybersecurity** at the time I'm a generalist developer.🎓
 
-📚 I'm studying [Computer Sciences and Software Engineering](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures about my goals. I'm developing applications using the tecnologies like: **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **C#**, **NoSQL**, **Django**, **Flask** e **MongoDB**.
+📚 I'm studying [Computer Sciences and Software Engineering](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures about my goals. I'm developing applications using the tecnologies like: **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **C#**, **NoSQL**, **Django**, **Flask** a **MongoDB**.
 
 ## Skills 💻
 
@@ -24,7 +24,7 @@ Some of my skills and knowledges like Jr. Developer :
 - 👔 **Front-end**: HTML, CSS (Media Query, Animation, Flexbox, Grid, Sass), JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 4+, React.
 - 🔠 **Languages**: JavaScript, Python, PHP, .NET, C#, Java
 - 🏷️ **Versioning**: Git, GitHub and Bitbucket.
-- 🧪 **Tests e Automatization**: NPM, Jest and Gulp.
+- 🧪 **Tests and Automatization**: NPM, Jest and Gulp.
 - 🔰 **Databases**: Language SQL, NoSQL, MongoDB, SQLite, OracleDB and MySQL.
 - 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10.
 - ⚜️ **Architecture**: Rest, APIS, OOP and UML.
