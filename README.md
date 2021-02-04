@@ -13,7 +13,7 @@
 
 ## Hello, How are you? &#129311;&#127995;&#129492;&#127995;
 
-👨 My name is **Eros MLima**, i have 35 years, I am focused on the area of ​​** Front-end / Back-end / Mobile / Cybersecurity ** development.🎓
+👨 My name is **Eros MLima**, I have 35 years, I am focused on the area of ​​** Front-end / Back-end / Mobile / Cybersecurity ** at the time I'm a generalist developer.🎓
 
 📚 I'm studying [Computer Sciences and Software Engineering](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures about my goals. I'm developing applications using the tecnologies like: **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **C#**, **NoSQL**, **Django**, **Flask** e **MongoDB**.
 
