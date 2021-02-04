@@ -1,7 +1,7 @@
 <!-- Cover -->
 <p align="center">
 	<img 
-		alt="cover" 
+		alt=" " 
 		loading="lazy"
 		src="./assets/Cover_GitHub.gif" 
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
