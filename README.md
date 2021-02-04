@@ -16,7 +16,7 @@
 👨 My name is **Eros MLima**, I have 35 years, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer.🎓
 
 📚 I'm studying [Computer Sciences and Software Engineering](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
-**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React**, **C#**, **NoSQL**, **Django**, **Flask** a **MongoDB**.
+**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React**, **C#**, **NoSQL**, **Django**, **Flask** and **MongoDB**.
 
 ## Skills 
 
