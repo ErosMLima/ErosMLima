@@ -31,17 +31,16 @@ Some of my skills and knowledges like Jr. Developer :
 - 🧪 **Tests and Automatization**: NPM, Jest and Gulp.
 - 🔰 **Databases**: Language SQL, NoSQL, MongoDB, SQLite, OracleDB and MySQL.
 - 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10, Kali and MacOs.
-- ⚜️ **Architecture**: Rest, MVC, APIS, OOP and UML.
-- 📈 **Software Egineering**: Requirements gathering, UML, Scrum and Kanban.
+- ⚜️ **Architecture**: Rest, MVC, APIS, OOP, S.O.L.I.D. and whatever I need.
+- 📈 **Software Egineering**: Requirements gathering, UML, Agile, Scrum and Kanban.
 
 <!-- Contacts -->
 
 **Contacts: ★★★★★**
 
 - 💬 **Ask me** about at website4creators@gmail.com or
-- 📲 **reach me through** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for☕️. 
--  
-
+- 📲 **reach me through** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for☕️.
+<!-- Charts -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
 style="max-width:120%" align="center">
 
