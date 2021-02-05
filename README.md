@@ -13,12 +13,12 @@
 
 ## Hello, How are you? 😀🗺️
 
-👨 My name is **Eros MLima**, I have 35 years, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer.🎓
+👨 My name is **Eros MLima** (future Agile Scrum Master³), I have 35 years, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer.🎓
 
-📚 I'm studying [Computer Sciences and Software Engineering](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
+📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
 **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React**, **C#**, **NoSQL**, **Django**, **Flask** and **MongoDB**.
 
-## Skills 
+## Skills☕️ 
 
 <!-- Skills -->
 Some of my skills and knowledges like Jr. Developer :
@@ -31,16 +31,16 @@ Some of my skills and knowledges like Jr. Developer :
 - 🧪 **Tests and Automatization**: NPM, Jest and Gulp.
 - 🔰 **Databases**: Language SQL, NoSQL, MongoDB, SQLite, OracleDB and MySQL.
 - 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10, Kali and MacOs.
-- ⚜️ **Architecture**: Rest, APIS, OOP and UML.
+- ⚜️ **Architecture**: Rest, MVC, APIS, OOP and UML.
 - 📈 **Software Egineering**: Requirements gathering, UML, Scrum and Kanban.
 
 <!-- Contacts -->
 
 **Contacts: ★★★★★**
 
-- 💬 Ask me about at website4creators@gmail.com or
-- 📲 How to reach me: Linkedin, Zoom, Skype, Messenger, Gmail or Telegram.
-- ☕️ Fun fact: I'm not a Nerd, even a Geek, just a simple Jr. Developer with too much curious mind!
+- 💬 **Ask me** about at website4creators@gmail.com or
+- 📲 **reach me through** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for☕️. 
+-  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
 style="max-width:120%" align="center">
