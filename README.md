@@ -38,8 +38,8 @@ Some of my skills and knowledges like Jr. Developer :
 
 **Contacts: ★★★★★**
 
-- 💬 **Ask me** about at website4creators@gmail.com or
-- 📲 **reach me through** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for☕️.
+- 💬 **Reach me through** website4creators@gmail.com or
+- 📲 ** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for☕️.
 <!-- Charts -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
 style="max-width:120%" align="center">
