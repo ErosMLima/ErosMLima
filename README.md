@@ -30,7 +30,7 @@ Some of my skills and knowledges like Jr. Developer :
 - 🌦️ **Cloud**:  Mining [Kryptos], Docker, Kubernets, AWS, Azure, Security...
 - 🧪 **Tests and Automatization**: NPM, Jest and Gulp.
 - 🔰 **Databases**: Language SQL, NoSQL, MongoDB, SQLite, OracleDB and MySQL.
-- 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10, Kali and MacOs.
+- 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows XP, 10, Kali and MacOs.
 - ⚜️ **Architecture**: Rest, MVC, APIS, OOP, S.O.L.I.D. and whatever I need.
 - 📈 **Software Egineering**: Requirements gathering, UML, Agile, Scrum and Kanban.
 
