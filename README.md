@@ -34,6 +34,13 @@ Some of my skills and knowledges like Jr. Developer :
 - ⚜️ **Architecture**: Rest, MVC, APIS, OOP, S.O.L.I.D. and whatever I need.
 - 📈 **Software Egineering**: Requirements gathering, UML, Agile, Scrum and Kanban.
 
+
+=:>My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, Python, Flask, Django
+-Network Connection, HTTP, TCP/IP🐍
+
+=:>Learning 2th (b) focus >React Native, NodeJS, GatsbyJS, AdonisJS, TypeScript, Angular 8, C#, REST API's♻️
+
+
 <!-- Contacts -->
 
 **Contacts: ★★★★★**
