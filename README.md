@@ -2,7 +2,7 @@
 <p align="center">
 	<img 
 		alt=" " 
-		loading="lazy"
+		loading="lazy" 
 		src="./assets/Cover_GitHub.gif" 
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
 		title="Eros MLima" 
@@ -22,7 +22,7 @@
 
 <!-- Skills -->
 Some of my skills and knowledges like Jr. Developer :
-- 👔 **Front-end**: HTML, CSS, JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 4+, React...
+- 👔 **Front-end**: HTML, CSS, JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 8+, React...
 - 💻 **Back-end**: Django, Flask, NodeJS, ExpressJS, AdonisJS, Laravel, CodIgniter, Zend...
 - 📲 **Mobile**: React Native, Swift, Objective-C, Xcode, Xamarin, Thunkable, Kotlin...
 - 🔠 **Languages**: JavaScript, Python, PHP, .NET, C#, Java...
@@ -35,10 +35,12 @@ Some of my skills and knowledges like Jr. Developer :
 - 📈 **Software Egineering**: Requirements gathering, UML, Agile, Scrum and Kanban.
 
 
-=:>My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, Python, Flask, Django
--Network Connection, HTTP, TCP/IP🐍
+<!-- Core Skills -->
 
-=:>Learning 2th (b) focus >React Native, NodeJS, GatsbyJS, AdonisJS, TypeScript, Angular 8, C#, REST API's♻️
+**My Core Skills: ★★★★★**
+
+=:> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, Python, Flask, Django, Network Connection, Thunkable, HTTP, TCP/IP 🐍
+=:> I'm Learning in 2th place (b) in focus> React Native, NodeJS, GatsbyJS, AdonisJS, TypeScript, Angular 8, C#, REST API's♻️
 
 
 <!-- Contacts -->
