@@ -16,7 +16,7 @@
 👨 My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓
 
 📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
-**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React**, **C#**, **NoSQL**, **Django**, **Flask** and **MongoDB**.
+**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and new that I need to finish my projects.
 
 ## Skills☕️ 
 
@@ -96,13 +96,14 @@ style="max-width:120%" align="center">
 <i class="devicon-linkedin-plain colored"></i>
 
 </a>
+
 <a href="https://github.com/ErosMLima/ErosMLima/edit/main/README.md" target="_blank">
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 <!-- in your body -->
 <i class="devicon-github-original-wordmark colored"></i>
-
+</a>
 
 
 #GoGoGo 🚀 🚀 🚀
