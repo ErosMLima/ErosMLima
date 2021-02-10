@@ -97,7 +97,7 @@ style="max-width:120%" align="center">
 
 </a>
 
-<a href="https://github.com/ErosMLima/ErosMLima/edit/main/README.md" target="_blank">
+<a href="https://github.com/ErosMLima/" target="_blank">
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
