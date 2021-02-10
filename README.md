@@ -1,4 +1,4 @@
-<!-- Cover -->
+<!-- Cover 
 <p align="center">
 	<img 
 		alt=" " 
@@ -7,7 +7,7 @@
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
 		title="Eros MLima" 
 	>
-</p>
+</p>-->
 
 <h1>⚡️ErosMLima☕️</h1> 
 
@@ -28,9 +28,9 @@ Some of my skills and knowledges like Jr. Developer :
 - 🔠 **Languages**: JavaScript, Python, PHP, .NET, C#, Java...
 - 🏷️ **Versioning**: Git, GitHub and Bitbucket.
 - 🌦️ **Cloud**:  Mining [Kryptos], Docker, Kubernets, AWS, Azure, Security...
-- 🧪 **Tests and Automatization**: NPM, Jest and Gulp.
+- 🧪 **Tests and Automatization**: NPM, nuget, pip, Jest, Gulp...
 - 🔰 **Databases**: Language SQL, NoSQL, MongoDB, SQLite, OracleDB and MySQL.
-- 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows XP, 10, Kali and MacOs.
+- 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10, Kali and MacOS.
 - ⚜️ **Architecture**: Rest, MVC, APIS, OOP, S.O.L.I.D. and whatever I need.
 - 📈 **Software Egineering**: Requirements gathering, UML, Agile, Scrum and Kanban.
 
