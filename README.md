@@ -83,7 +83,26 @@ style="max-width:120%" align="center">
 	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-fff?style=plastic&logo=webpack&logoColor=1b74ba" title="Webpack" />
 </p>
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+<!--Contacts -->
+<a href="https://www.linkedin.com/in/%E2%9A%A1%EF%B8%8Feros-m-lima%E2%98%95%EF%B8%8F-57a405198/?locale=pt_BR/" target="_blank">
+
+<img align="center" alt="ErosMLima-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width=100%;">
+
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-linkedin-plain colored"></i>
+
+</a>
+<a href="https://github.com/ErosMLima/ErosMLima/edit/main/README.md" target="_blank">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
+<!-- in your body -->
+<i class="devicon-github-original-wordmark colored"></i>
+
 
 
 #GoGoGo 🚀 🚀 🚀
