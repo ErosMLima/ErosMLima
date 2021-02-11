@@ -18,22 +18,25 @@
 👨 My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓
 
 📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
-**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and new that I need to finish my projects.
+**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.
 
-## Skills☕️ 
 
 <!-- Skills -->
 
 Some of my skills and knowledges like Jr. Developer :
 
 <!-- Skills -->
-1th (a) Focus on🎯>>>[reading +than one chapter for day]
+**1th (a) Focus on🎯>>>[reading +than one chapter for day]**
 
 -Full Circle Development Methodology (Agile)
 -Top Algorithms/Data Structures
 -Concepts ever Computer Science student should know
 -Object-Oriented Programming and Unified Modeling Language
 -Software Architectures like MVC, MVP, MVVM, Clean and anothers
+
+<!-- Core Languages -->
+
+**Core Languages**
 
 -Python (Web/Anti-Malware/ML/AI/Algotrading)
 -JavaScript (Web/Servers/Cryptography)
