@@ -17,13 +17,15 @@
 
 👨 My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓
 
-📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
+📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. 
+
+## I'm developing applications using the tecnologies like: ##
 **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.
 
 
 <!-- Skills -->
 
-Some of my skills and knowledges like Jr. Developer :
+##Some of my skills and knowledges like Jr. Developer :
 
 <!-- Skills -->
 **1th (a) Focus on🎯>>>[reading +than one chapter for day]**
@@ -44,14 +46,14 @@ Some of my skills and knowledges like Jr. Developer :
 
 <!-- Core Skills -->
 
-=:>My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍
+##=:>My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍
 <!-- Learning -->
 
-=:>Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️
+##=:>Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️
 
 <!-- Extra Mile-->
 
-Extra Mile (little researches), not my core skills yet:
+##Extra Mile (little researches), not my core skills yet:
 
 -Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰
 -DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪
@@ -60,7 +62,7 @@ Extra Mile (little researches), not my core skills yet:
 
 <!-- Profiles-->
 
-Profiles:
+##Profiles:
 -GitHub: https://github.com/ErosMLima (remastered)🌟
 -Codewars: https://www.codewars.com/users/Ghost_Hash♘
 -Hack the Box: https://www.hackthebox.eu/home/users/profile/355878🕋
