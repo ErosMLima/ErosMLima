@@ -19,7 +19,7 @@
 
 📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. 
 
-## I'm developing applications using the tecnologies like: ##
+## I'm developing applications using the technologies like:
 **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.
 
 
@@ -57,9 +57,9 @@
 Extra Mile (little researches), not my core skills yet:
 
 -Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰
--DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪
--Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️
 -Web and Mobile Frameworks, Ngnix, OracleDB, AWS, Azure, Apache Mesos, Terraform, Xampp, Redis
+-Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️
+-DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪
 
 <!-- Profiles-->
 
