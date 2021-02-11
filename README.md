@@ -25,7 +25,7 @@
 
 <!-- Skills -->
 
-## Some of my skills and knowledges like Jr. Developer :##
+## Some of my skills and knowledges like Jr. Developer:
 
 <!-- Skills -->
 **1th (a) Focus on🎯>>>[reading +than one chapter for day]**
@@ -46,14 +46,15 @@
 
 <!-- Core Skills -->
 
-## =:>My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍
+ =:> My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍
+
 <!-- Learning -->
 
-## =:>Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️
+ =:> Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️
 
 <!-- Extra Mile-->
 
-## Extra Mile (little researches), not my core skills yet:
+Extra Mile (little researches), not my core skills yet:
 
 -Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰
 -DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪
