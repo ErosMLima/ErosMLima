@@ -7,7 +7,9 @@
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
 		title="Eros MLima" 
 	>
-</p>-->
+</p>  
+#GoGoGo 🚀 🚀 🚀
+-->
 
 <h1>⚡️ErosMLima☕️</h1> 
 
@@ -105,5 +107,3 @@ style="max-width:120%" align="center">
 </a>
 
 
-
-#GoGoGo 🚀 🚀 🚀
