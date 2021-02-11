@@ -17,35 +17,51 @@
 
 👨 My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓
 
-📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamp offered by *Digital Innovation One Inc. and Harvard CS50* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
+📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. I'm developing applications using the tecnologies like: 
 **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and new that I need to finish my projects.
 
 ## Skills☕️ 
 
 <!-- Skills -->
-Some of my skills and knowledges like Jr. Developer :
-- 👔 **Front-end**: HTML, CSS, JavaScript (Ajax, jQuery, ES6+), Bootstrap, Angular 8+, React...
-- 💻 **Back-end**: Django, Flask, NodeJS, ExpressJS, AdonisJS, Laravel, CodIgniter, Zend...
-- 📲 **Mobile**: React Native, Swift, Objective-C, Xcode, Xamarin, Thunkable, Kotlin...
-- 🔠 **Languages**: JavaScript, Python, PHP, .NET, C#, Java...
-- 🏷️ **Versioning**: Git, GitHub and Bitbucket.
-- 🌦️ **Cloud**:  Mining [Kryptos], Docker, Kubernets, AWS, Azure, Security...
-- 🧪 **Tests and Automatization**: NPM, nuget, pip, Jest, Gulp...
-- 🔰 **Databases**: Language SQL, NoSQL, MongoDB, SQLite, OracleDB and MySQL.
-- 🏗️ **Infrastructure**: HTTP, TCP/IP, Windows 10, Kali and MacOS.
-- ⚜️ **Architecture**: Rest, MVC, APIS, OOP, S.O.L.I.D. and whatever I need.
-- 📈 **Software Egineering**: Requirements gathering, UML, Agile, Scrum and Kanban.
 
+Some of my skills and knowledges like Jr. Developer :
+
+<!-- Skills -->
+1th (a) Focus on🎯>>>[reading +than one chapter for day]
+
+-Full Circle Development Methodology (Agile)
+-Top Algorithms/Data Structures
+-Concepts ever Computer Science student should know
+-Object-Oriented Programming and Unified Modeling Language
+-Software Architectures like MVC, MVP, MVVM, Clean and anothers
+
+-Python (Web/Anti-Malware/ML/AI/Algotrading)
+-JavaScript (Web/Servers/Cryptography)
+-.NET Core, and C# (Console Applications)
 
 <!-- Core Skills -->
 
-**My Core Skills: ★★★★★**
+=:>My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍
+<!-- Learning -->
 
-=:> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, Python, Flask, Django, Network Connection, Thunkable, HTTP, TCP/IP 🐍
+=:>Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️
 
-<!-- Learning Skills -->
-=:> I'm Learning in 2th place (b) in focus> React Native, NodeJS, GatsbyJS, AdonisJS, TypeScript, Angular 8, C#, REST API's♻️
+<!-- Extra Mile-->
 
+Extra Mile (little researches), not my core skills yet:
+
+-Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰
+-DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪
+-Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️
+-Web and Mobile Frameworks, Ngnix, OracleDB, AWS, Azure, Apache Mesos, Terraform, Xampp, Redis
+
+<!-- Profiles-->
+
+Profiles:
+-GitHub: https://github.com/ErosMLima (remastered)🌟
+-Codewars: https://www.codewars.com/users/Ghost_Hash♘
+-Hack the Box: https://www.hackthebox.eu/home/users/profile/355878🕋
+-Medium: https://website4creators.medium.com/ (Tech Articles)📝 
 
 <!-- Contacts -->
 
@@ -86,24 +102,4 @@ style="max-width:120%" align="center">
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
 	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-fff?style=plastic&logo=webpack&logoColor=1b74ba" title="Webpack" />
 </p>
-
-
-<!--Contacts -->
-<a href="https://www.linkedin.com/in/%E2%9A%A1%EF%B8%8Feros-m-lima%E2%98%95%EF%B8%8F-57a405198/?locale=pt_BR/" target="_blank">
-<img align="center" alt="ErosMLima-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width=100%;">
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-<!-- in your body -->
-<i class="devicon-linkedin-plain colored"></i>
-</a>
-
-<!--Contacts -->
-<a href="https://github.com/ErosMLima" target="_blank">
-<img align="center" alt="ErosMLima-github" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width=100%;">
-<!-- in your header --><br>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-<!-- in your body -->
-<i class="devicon-github-original colored"></i>
-</a>
-
-
+				
