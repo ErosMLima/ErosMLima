@@ -19,7 +19,7 @@
 
 📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. 
 
-## I'm developing applications using the technologies like:
+## I'm developing applications using technologies like:
 **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.
 
 
