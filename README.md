@@ -12,7 +12,7 @@
 
 
 <p align="center">
-    <img windth="470" src="https://blog.radware.com/wp-content/uploads/2020/06/traffic-juanjo-1536x768.jpg" style="width: 363px; height: 283px; margin: 0px;">
+    <img windth="470" src="https://blog.radware.com/wp-content/uploads/2020/06/traffic-juanjo-1536x768.jpg" style="width: 480px; height: 200px; margin: 0px;">
 </p> 
 
 -->
