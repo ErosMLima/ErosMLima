@@ -29,7 +29,7 @@
 
 <p>👨My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓</p>
 
-<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻(https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. </p>
+<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. </p>
 
 ## I'm developing applications using technologies like:
 
