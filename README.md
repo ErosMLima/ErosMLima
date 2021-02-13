@@ -24,14 +24,16 @@
 
 <h1>⚡️ErosMLima☕️</h1> 
 
-## Hello, How are you? 😀🗺️##
+## Hello, How are you?😀🗺️##
 
-👨 My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓
 
-📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻(https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. 
+<p>👨My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓</p>
+
+<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻(https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. </p>
 
 ## I'm developing applications using technologies like:
-**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.
+
+<p>**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.</p>
 
 
 <!-- Skills -->
@@ -41,44 +43,48 @@
 <!-- Skills -->
 **1th (a) Focus on🎯>>>[reading +than one chapter for day]**
 
--Full Circle Development Methodology (Agile)
--Top Algorithms/Data Structures
--Concepts ever Computer Science student should know
--Object-Oriented Programming and Unified Modeling Language
--Software Architectures like MVC, MVP, MVVM, Clean and anothers
+<p>-Full Circle Development Methodology (Agile)</p>
+<p>-Top Algorithms/Data Structures</p>
+<p>-Concepts ever Computer Science student should know</p>
+<p>-Object-Oriented Programming and Unified Modeling Language</p>
+<p>-Software Architectures like MVC, MVP, MVVM, Clean and anothers</p>
 
 <!-- Core Languages -->
 
 ## **Core Languages👨‍💻** ##
 
--Python (Web/Anti-Malware/ML/AI/Algotrading)
--JavaScript (Web/Servers/Cryptography)
--.NET Core, and C# (Console Applications)
+<p>-Python (Web/Anti-Malware/ML/AI/Algotrading)</p>
+<p>-JavaScript (Web/Servers/Cryptography)</p>
+<p>-.NET Core, and C# (Console Applications)</p>
+
 
 <!-- Core Skills -->
 
- =:> My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍
+<p> =:> My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍</p>
+
 
 <!-- Learning -->
 
- =:> Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️
+<p> =:> Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️</p>
+
 
 <!-- Extra Mile-->
 
-Extra Mile (little researches), not my core skills yet:
+<p>Extra Mile (little researches), not my core skills yet:</p>
 
--Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰
--Web and Mobile Frameworks, Ngnix, OracleDB, AWS, Azure, Apache Mesos, Terraform, Xampp, Redis
--Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️
--DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪
+<p>-Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰</p>
+<p>-Web and Mobile Frameworks, Ngnix, OracleDB, AWS, Azure, Apache Mesos, Terraform, Xampp, Redis</p>
+<p>-Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️</p>
+<p>-DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪</p>
+
 
 <!-- Profiles-->
 
 ## Profiles:
--GitHub: https://github.com/ErosMLima (remastered)🌟
--Codewars: https://www.codewars.com/users/Ghost_Hash♘
--Hack the Box: https://www.hackthebox.eu/home/users/profile/355878🕋
--Medium: https://website4creators.medium.com/ (Tech Articles)📝 
+<p>-GitHub: https://github.com/ErosMLima (remastered)🌟</p>
+<p>-Codewars: https://www.codewars.com/users/Ghost_Hash♘</p>
+<p>-Hack the Box: https://www.hackthebox.eu/home/users/profile/355878🕋</p>
+<p>-Medium: https://website4creators.medium.com/ (Tech Articles)📝 </p>
 
 <!-- Contacts -->
 
