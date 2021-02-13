@@ -25,7 +25,7 @@
 <h1>⚡️ErosMLima☕️</h1> 
 
 ## Hello, How are you?😀🗺️##
-
+<p> </p>
 
 <p>👨My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓</p>
 
@@ -34,7 +34,7 @@
 ## I'm developing applications using technologies like:
 
 <p>**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.</p>
-
+<p> </p>
 
 <!-- Skills -->
 
@@ -42,7 +42,7 @@
 
 <!-- Skills -->
 **1th (a) Focus on🎯>>>[reading +than one chapter for day]**
-
+<p> </p>
 <p>-Full Circle Development Methodology (Agile)</p>
 <p>-Top Algorithms/Data Structures</p>
 <p>-Concepts ever Computer Science student should know</p>
@@ -52,32 +52,32 @@
 <!-- Core Languages -->
 
 ## **Core Languages👨‍💻** ##
-
+<p> </p>
 <p>-Python (Web/Anti-Malware/ML/AI/Algotrading)</p>
 <p>-JavaScript (Web/Servers/Cryptography)</p>
 <p>-.NET Core, and C# (Console Applications)</p>
-
+<p> </p>
 
 <!-- Core Skills -->
 
 <p> =:> My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍</p>
-
+<p> </p>
 
 <!-- Learning -->
 
 <p> =:> Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️</p>
 
 
-<!-- Extra Mile-->
+<!-- Extra Mile
 
 <p>Extra Mile (little researches), not my core skills yet:</p>
 
 <p>-Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰</p>
 <p>-Web and Mobile Frameworks, Ngnix, OracleDB, AWS, Azure, Apache Mesos, Terraform, Xampp, Redis</p>
 <p>-Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️</p>
-<p>-DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪</p>
+<p>-DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪</p> -->
 
-
+<p> </p>
 <!-- Profiles-->
 
 ## Profiles:
@@ -85,17 +85,17 @@
 <p>-Codewars: https://www.codewars.com/users/Ghost_Hash♘</p>
 <p>-Hack the Box: https://www.hackthebox.eu/home/users/profile/355878🕋</p>
 <p>-Medium: https://website4creators.medium.com/ (Tech Articles)📝 </p>
-
+<p> </p>
 <!-- Contacts -->
 
 **Contacts: ★★★★★**
-
+<p> </p>
 - 💬 **Reach me through** website4creators@gmail.com or
 - 📲 ** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for a ☕️.
 <!-- Charts -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
 style="max-width:120%" align="center">
-
+<p> </p>
 
 <!-- Languages, libs and frameworks -->
 <p align="left">
