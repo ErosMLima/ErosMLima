@@ -11,7 +11,7 @@
 #GoGoGo 🚀 🚀 🚀
 
 
-<p align="center" >
+<p align="center" >👨‍💻
     <img windth="470" src="https://blog.radware.com/wp-content/uploads/2020/06/traffic-juanjo-1536x768.jpg" style="width: 520px; height: 100px; margin: 0px;">
 </p> 
 
@@ -28,7 +28,7 @@
 
 👨 My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓
 
-📚 I'm studying [Computer Sciences¹ and Software Engineering²](https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. 
+📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻(https://www.igti.com.br/custom/desenvolvedor-front-end/) through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. 
 
 ## I'm developing applications using technologies like:
 **Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.
@@ -49,7 +49,7 @@
 
 <!-- Core Languages -->
 
-## **Core Languages** ##
+## **Core Languages👨‍💻** ##
 
 -Python (Web/Anti-Malware/ML/AI/Algotrading)
 -JavaScript (Web/Servers/Cryptography)
