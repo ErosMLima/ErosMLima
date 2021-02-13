@@ -33,7 +33,7 @@
 
 ## I'm developing applications using technologies like:
 
-<p>**Python**, **JavaScript**, **PHP**, **.NET**, **NodeJS**, **React Native**, **C#**, **NoSQL**, **Django**, **Flask**, **MongoDB** and any new technology that I need to finish my projects.</p>
+<p>Python, JavaScript, PHP, .NET, NodeJS, React, C#, NoSQL, Django, Flask, MongoDB and any new technology that I need to finish my projects.</p>
 <p> </p>
 
 <!-- Skills -->
