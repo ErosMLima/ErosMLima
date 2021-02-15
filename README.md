@@ -70,12 +70,12 @@
 
 <!-- Extra Mile
 
-<p>Extra Mile (little researches), not my core skills yet:</p>
+<!--<p>Extra Mile (little researches), not my core skills yet:</p>-->
 
-<p>-Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰</p>
-<p>-Web and Mobile Frameworks, Ngnix, OracleDB, AWS, Azure, Apache Mesos, Terraform, Xampp, Redis</p>
-<p>-Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️</p>
-<p>-DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪</p> -->
+<!--<p>-Arch Linux, Kernel, NoSQL, Assembly, Go, Scala, Lisp, Regex, Swift🔰</p>-->
+<!--<p>-Web and Mobile Frameworks, Ngnix, OracleDB, AWS, Azure, Apache Mesos, Terraform, Xampp, Redis</p>-->
+<!--<p>-Xamarim, GatsbyJS, AdonisJS, MongoDB, Elastic, Ruby (Sinatra), Elixir (Phoenix), Rusty, Java (Kotlin)⚜️</p>-->
+<!--<p>-DevOps, Tests QA, Pipelines, GitLab Ci, Jenkins CI, Continuous Integration, Continuous Inspection, Release🧪</p> -->
 
 <p> </p>
 <!-- Profiles-->
