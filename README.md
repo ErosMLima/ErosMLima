@@ -27,14 +27,14 @@
 ## Hello, How are you?😀🗺️##
 <p> </p>
 
-<p>👨My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓</p>
+<p>👨My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓</p><br/>
 
-<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. </p>
+<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. </p><br/>
 
 ## I'm developing applications using technologies like:
 
 <p>Python, JavaScript, PHP, .NET, NodeJS, React, C#, NoSQL, Django, Flask, MongoDB and any new technology that I need to finish my projects.</p>
-<p> </p>
+<p> </p> <br/>
 
 <!-- Skills -->
 
@@ -47,7 +47,7 @@
 <p>-Top Algorithms/Data Structures</p>
 <p>-Concepts ever Computer Science student should know</p>
 <p>-Object-Oriented Programming and Unified Modeling Language</p>
-<p>-Software Architectures like MVC, MVP, MVVM, Clean and anothers</p>
+<p>-Software Architectures like MVC, MVP, MVVM, Clean and anothers</p><br/>
 
 <!-- Core Languages -->
 
@@ -55,17 +55,20 @@
 <p> </p>
 <p>-Python (Web/Anti-Malware/ML/AI/Algotrading)</p>
 <p>-JavaScript (Web/Servers/Cryptography)</p>
-<p>-.NET Core, and C# (Console Applications)</p>
+<p>-.NET Core, and C# (Console Applications)</p> <br/>
 <p> </p>
 
 <!-- Core Skills -->
 
-<p> =:> My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django, Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP, Risk Management🐍</p>
-<p> </p>
+<p>=:>My Core Skills> HTML5, CSS Tricks, Bootstrap, PHP, MySQL, JavaScript, jQuery, Python, Flask, Django</p><br/>
+<p=:>>Network Connection, Thunkable, Figma, PowerShell, SysAdmin, SAP (CO/FI), HTTP, TCP/IP🐍</p> <br/>
 
 <!-- Learning -->
 
-<p> =:> Learning 2th (b) focus> React Native, NodeJS, TypeScript, Angular 8, REST API's, Git, Docker, Kubernets, Heroku, Firebase♻️</p>
+<p> =:>Learning 2th (b) focus> Angular 11+, ReactJS, NodeJS, TypeScript, GraphQL</p><br/>
+
+<p>=:>Learning 3th (b) focus> RESTFul API's, Databases, Git, Docker, .NET, React Native♻️</p><br/>
+
 
 
 <!-- Extra Mile
@@ -80,18 +83,17 @@
 <p> </p>
 <!-- Profiles-->
 
-## Profiles:
+## Profiles:<br/>
 <p>-GitHub: https://github.com/ErosMLima (remastered)🌟</p>
 <p>-Codewars: https://www.codewars.com/users/Ghost_Hash♘</p>
 <p>-Hack the Box: https://www.hackthebox.eu/home/users/profile/355878🕋</p>
 <p>-Medium: https://website4creators.medium.com/ (Tech Articles)📝 </p>
-<p> </p>
+<p> </p><br/>
 <!-- Contacts -->
 
 **Contacts: ★★★★★**
-<p> </p>
-- 💬 **Reach me through** website4creators@gmail.com or
-- 📲 ** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for a ☕️.
+<p> - 💬 **Reach me through** website4creators@gmail.com or<br/></p>
+<p>- 📲 ** Linkedin, Zoom, Skype, Messenger, Gmail or Telegram in a friendly meeting chat, any time for a ☕️.</p>
 <!-- Charts -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErosMLima&layout=compact&theme=jolly"
 style="max-width:120%" align="center">
