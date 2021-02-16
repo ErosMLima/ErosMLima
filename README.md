@@ -70,7 +70,9 @@ style="max-width:120%" align="center">
 <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"><br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"><br/>
+
 
 <img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><br/>
 
@@ -87,7 +89,6 @@ style="max-width:120%" align="center">
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	
 
-<br/> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 
 </code>
 
