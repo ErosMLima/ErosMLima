@@ -72,20 +72,22 @@ style="max-width:120%" align="center">
 <img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"><br/>
 
-<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><br/>
+
+
+<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
 
 
 <img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"><br/>
-
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"><br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 
 <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	
-<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"><br/>
+
+<br/> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 
 </code>
 
