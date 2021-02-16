@@ -1,22 +1,3 @@
-<!-- Cover 
-<p align="center">
-	<img 
-		alt=" " 
-		loading="lazy" 
-		src="./assets/Cover_GitHub.gif" 
-		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
-		title="Eros MLima" 
-	>
-</p>  
-#GoGoGo 🚀 🚀 🚀
-
-
-<p align="center" >👨‍💻
-    <img windth="470" src="https://blog.radware.com/wp-content/uploads/2020/06/traffic-juanjo-1536x768.jpg" style="width: 520px; height: 100px; margin: 0px;">
-</p> 
-
--->
-
 
 <p align="center">
     <img windth="470" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif">
@@ -29,9 +10,11 @@
 
 <p>My name is **Eros MLima**, I'm focused in Front-end, Back-end, plus Mobile & Cybersecurity for now I'm a generalist⚜️developer, choosing my stacks.🎓</p><br/>
 
-<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍🏫through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals.🎯</p><br/>
+<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍🏫through a Bootcamps offered by</p><br/>
 
-##👨‍💻I'm developing applications using technologies like:🌟
+<p>*Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals.🎯</p><br/>
+
+##👨‍💻I'm developing applications using technologies like for now:🌟<br/>
 
 
 <!-- Charts -->
@@ -67,4 +50,62 @@ style="max-width:120%" align="center">
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
 	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-fff?style=plastic&logo=webpack&logoColor=1b74ba" title="Webpack" />
 </p>
-				
+
+
+## Tech
+<code>
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">	
+<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
+
+
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+
+
+<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+
+
+
+
+
+
+</code>
+
+## Stats 
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=eros-mlima.eros-mlima)&nbsp;
+[![Open Source ❤️](https://badgen.net/badge/Open%20Source%20/%E2%9D%A4/blue?icon=github)](https://github.com/erosmlima/phase/)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/erosmlima.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/erosmlima?tab=followers)&nbsp;
+<a href="https://www.linkedin.com/in/%E2%9A%A1%EF%B8%8Feros-m-lima%E2%98%95%EF%B8%8F-57a405198/"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Eros's DEV Profile" height="22" width="22"></a>
+
+
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+
