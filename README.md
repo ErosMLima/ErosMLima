@@ -24,14 +24,14 @@
 
 <h1>⚡️ErosMLima☕️</h1> 
 
-## Hello, How are you?😀🗺️##
+## Hello, How are you?🤖##
 <p> </p>
 
-<p>👨My name is **Eros MLima**, I'm focused in **Front-end / Back-end / Mobile / Cybersecurity** for now I'm a generalist developer, choosing my stacks.🎓</p><br/>
+<p>My name is **Eros MLima**, I'm focused in Front-end, Back-end, plus Mobile & Cybersecurity for now I'm a generalist⚜️developer, choosing my stacks.🎓</p><br/>
 
-<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍💻through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals. </p><br/>
+<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍🏫through a Bootcamps offered by *Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals.🎯</p><br/>
 
-## I'm developing applications using technologies like🎯:
+## I'm developing applications using technologies like:🌟
 
 <p>Python, JavaScript, PHP, .NET, NodeJS, React, C#, NoSQL, Django, Flask, MongoDB and any new technology that I need to finish my projects.👨‍💻</p>
 <p> </p> <br/>
