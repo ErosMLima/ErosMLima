@@ -107,7 +107,7 @@ style="max-width:120%" align="center">
 	<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-fff?style=plastic&logo=jquery&logoColor=4878a0" title="jQuery" />
 	<img alt="JSON" src="https://img.shields.io/badge/-JSON-fff?style=plastic&logo=json&logoColor=1a1a1a" title="JSON" />
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-fff?style=plastic&logo=typescript" title="TypeScript" />
-	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-fff?style=plastic&logoColor=00758f&logo=mysql" title="MySQL" />
+	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-fff?style=plastic&logoColor=00758f&logo=mysql" title="MySQL" /><br/>
 	<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-fff?style=plastic&logoColor=009547&logo=mongodb" title="MongoDB" />
 	<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-fff?style=plastic&logoColor=fff&logo=node.js&logoColor=5B9856" title="Node.js" />
 	<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-fff?style=plastic&logo=bootstrap&logoColor=563D7C" title="Bootstrap" />
