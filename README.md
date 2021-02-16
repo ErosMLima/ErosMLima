@@ -3,9 +3,9 @@
     <img windth="470" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif">
 </p>
 
-<h1>⚡️ErosMLima☕️</h1> 
+<h1>⚡️ErosMLima🤖</h1> 
 
-## Hello, How are you?🤖##
+## Hello, How are you?👨‍💻
 <p> </p>
 
 <p>My name is **Eros MLima**, I'm focused in Front-end, Back-end, plus Mobile & Cybersecurity for now I'm a generalist⚜️developer, choosing my stacks.🎓</p><br/>
@@ -52,7 +52,7 @@ style="max-width:120%" align="center">
 </p>
 
 
-## Tech
+## Techs
 
 <code>
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
@@ -74,9 +74,6 @@ style="max-width:120%" align="center">
 <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"><br/>
 
 
-<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><br/>
-
-
 <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
 
@@ -87,12 +84,14 @@ style="max-width:120%" align="center">
 
 <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	
+<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	<br/>
+
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><br/>
 
 
 </code>
 
-## Stats 
+## Stats ☕️
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=eros-mlima.eros-mlima)&nbsp;
 [![Open Source ❤️](https://badgen.net/badge/Open%20Source%20/%E2%9D%A4/blue?icon=github)](https://github.com/erosmlima/phase/)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/erosmlima.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/erosmlima?tab=followers)&nbsp;
