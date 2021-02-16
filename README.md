@@ -53,49 +53,41 @@ style="max-width:120%" align="center">
 
 
 ## Tech
+
 <code>
-<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">	
-<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
-
-
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"><br/>	
 
-<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-
-<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
-
-<img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
-
-<img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
-
-<img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
-
-<img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg">
-
-<img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"><br/>
 <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 
+<img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"><br/>
 
-<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"><br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
 
 
+<img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"><br/>
 
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 
+<img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"><br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	
+<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"><br/>
 
 </code>
 
