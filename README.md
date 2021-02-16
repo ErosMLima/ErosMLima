@@ -84,7 +84,7 @@ style="max-width:120%" align="center">
 
 <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	<br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	
 
 <img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><br/>
 
