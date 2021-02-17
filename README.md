@@ -56,7 +56,7 @@ style="max-width:120%" align="center">
 
 <code>
 
-<p>
+<p style="background-color:white">
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"><br/>	
@@ -78,7 +78,7 @@ style="max-width:120%" align="center">
 <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"><br/></p>
 
 
-<p>
+<p style="background-color:white">
 <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
 
