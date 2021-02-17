@@ -14,7 +14,7 @@
 
 <p>*Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals.🎯</p><br/>
 
-##👨‍💻I'm developing applications using technologies like for now:🌟<br/>
+##👨‍💻I'm developing applications using technologies for now:🌟<br/>
 
 
 <!-- Charts -->
