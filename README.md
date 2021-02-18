@@ -23,6 +23,8 @@ style="max-width:120%" align="center">
 <p> </p>
 
 <!-- Languages, libs and frameworks -->
+## Techs👨‍💻
+
 <p align="left">
 	<img alt="HTML5" src="https://img.shields.io/badge/-HTML-fff?style=plastic&logo=HTML5" title="HTML5" />
 	<img alt="CSS3" src="https://img.shields.io/badge/-CSS-fff?style=plastic&logo=CSS3&logoColor=1572B6" title="CSS3" />
@@ -52,51 +54,7 @@ style="max-width:120%" align="center">
 </p>
 
 
-## Techs👨‍💻
 
-<code>
-
-<p style="background-color:white">
-<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"><br/>	
-
-<img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-</p>
-
-<br/><p>
-<img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"><br/>
-
-<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"><br/></p>
-
-
-<p style="background-color:white">
-<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-
-
-<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-
-<img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	</p>
-
-
-
-<img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><br/>
-
-
-</code>
 
 ## Stats ☕️
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=eros-mlima.eros-mlima)&nbsp;
@@ -108,3 +66,36 @@ style="max-width:120%" align="center">
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
+
+
+<!--
+<code>
+<p style="background-color:white">
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"><br/>	
+<img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+</p>
+<br/><p>
+<img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"><br/>
+<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"><br/></p>
+<p style="background-color:white">
+<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">	</p>
+<img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"><br/>
+</code>
+-->
