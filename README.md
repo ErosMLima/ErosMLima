@@ -8,13 +8,13 @@
 ## Hello, How are you?👨‍💻
 <p> </p>
 
-<p>My name is **Eros MLima**, I'm focused in Front-end, Back-end, plus Mobile & Cybersecurity for now I'm a generalist⚜️developer, choosing my stacks.🎓</p><br/>
+<p>My name is Eros MLima, I am focused in be a Full-Stack Developer, studying Front-end, Back-end, plus Mobile & Cybersecurity for now I am a generalist⚜️developer, choosing my Stacks in JavaScript, Python and .Net technologies.🎓</p><br/>
 
-<p>📚 I'm studying [Computer Sciences¹ and Software Engineering²]👨‍🏫through a Bootcamps offered by</p><br/>
+<p>📚 I am studying [Computer Sciences¹ and Software Engineering²]👨‍🏫through the Bootcamps offered by</p><br/>
 
-<p>*Digital Innovation One Inc., Rocketseat (Maratona Discover) and Harvard (CS50)* - making courses and lectures for achieve my goals.🎯</p><br/>
+<p>*Digital Innovation One Inc., Rocketseat (Maratona Discover/Next Level Week) and Harvard (CS50)* - making daily courses, with hard practice (+5h/day)for achieve my goals.🎯</p><br/>
 
-##I'm developing applications using this technologies in the moment:🌟<br/>
+##I am developing applications using this technologies in the moment:🌟<br/>
 
 
 <!-- Charts -->
