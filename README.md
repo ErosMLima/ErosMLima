@@ -53,6 +53,3 @@ const erosmlima = {
 
 
 
-<!--a href="https://erosmlima.herokuapp.com">
-<img src="https://img.shields.io/badge/WebProfile-25D366?style=for-the-badge&color=purple"/>
-</a-->
