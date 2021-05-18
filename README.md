@@ -37,14 +37,16 @@ const erosmlima = {
     ],
     technologies: {
         frontEnd:  [
-            "React.js",
+            "CSS_Tricks",
+	    "Animations",
 	    "Angular",
-            "Bootstrap",
+            "Bootstrap"
         ],
         backEnd: [
             "Node.js",
             "Django",
 	    "CRUD JSON",
+	    "APIs"
         ],
         databases: ["Mongo", "MySQL", "SQLite", "JSON"],
         misc: ["Git", "Libraries", "Frameworks", "Cloud", "Mobile", "Servers", "DB", "PWA"]
