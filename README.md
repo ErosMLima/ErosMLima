@@ -40,6 +40,7 @@ const erosmlima = {
             "CSS_Tricks",
 	    "Animations",
 	    "Angular",
+	    "React",
             "Bootstrap"
         ],
         backEnd: [
@@ -48,7 +49,7 @@ const erosmlima = {
 	    "CRUD JSON",
 	    "APIs"
         ],
-        databases: ["Mongo", "MySQL", "SQLite", "JSON"],
+        databases: ["Mongo", "MySQL", "SQLite", "JSON", "PostgreSQL" ],
         misc: ["Git", "Libraries", "Frameworks", "Cloud", "Mobile", "Servers", "DB", "PWA"]
     },
 };
