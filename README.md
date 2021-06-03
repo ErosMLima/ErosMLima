@@ -41,8 +41,7 @@ const erosmlima = {
 	    "Animations",
 	    "Angular",
 	    "React",
-            "Bootstrap",
-	    "Jumbotron"
+            "Bootstrap"
         ],
         backEnd: [
             "Node.js",
