@@ -41,7 +41,8 @@ const erosmlima = {
 	    "Animations",
 	    "Angular",
 	    "React",
-            "Bootstrap"
+            "Bootstrap",
+	    "Jumbotron"
         ],
         backEnd: [
             "Node.js",
@@ -49,7 +50,7 @@ const erosmlima = {
 	    "CRUD JSON",
 	    "APIs"
         ],
-        databases: ["Mongo", "MySQL", "SQLite", "JSON", "PostgreSQL" ],
+        databases: [ "GraphQL", "MySQL", "SQLite", "JSON", "PostgreSQL" ],
         misc: ["Git", "Libraries", "Frameworks", "Cloud", "Mobile", "Servers", "DB", "PWA"]
     },
 };
