@@ -39,8 +39,8 @@ const erosmlima = {
         frontEnd:  [
             "CSS_Tricks",
 	    "Animations",
-	    "Angular",
 	    "React",
+	    "React Native",
             "Bootstrap"
         ],
         backEnd: [
@@ -49,8 +49,8 @@ const erosmlima = {
 	    "CRUD JSON",
 	    "APIs"
         ],
-        databases: [ "GraphQL", "MySQL", "SQLite", "JSON", "PostgreSQL" ],
-        misc: ["Git", "Libraries", "Frameworks", "Cloud", "Mobile", "Servers", "DB", "PWA"]
+        databases: [ "GraphQL", "MySQL", "SQLite", "JSON", "PostgreSQL", "MongoDB" ],
+        misc: ["Git", "Libraries", "Frameworks", "Cloud", "Mobile", "Servers", "DBs", "PWAs", "UX", "UI" ]
     },
 };
 
