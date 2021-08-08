@@ -40,11 +40,14 @@ const erosmlima = {
             "CSS_Tricks",
 	    "Animations",
 	    "React",
+	    "Redux",
 	    "React Native",
+	    "Electron",
             "Bootstrap"
         ],
         backEnd: [
-            "Node.js",
+            "NodeJs",
+	    "ExpessJs"
             "Django",
 	    "CRUD JSON",
 	    "APIs"
