@@ -41,8 +41,7 @@ const erosmlima = {
 	    "Animations",
 	    "React",
 	    "Redux",
-	    "React Native",
-	    "Electron",
+	    "React Native",	    
             "Bootstrap"
         ],
         backEnd: [
