@@ -56,7 +56,7 @@ const erosmlima = {
 	    "React Native",	    
 	    "Android",
 	    "Kotlin"
-	]
+	],
         databases: [ "GraphQL", "MySQL", "SQLite", "JSON", "PostgreSQL", "MongoDB", "Firebase" ],
         misc: ["Git", "Libraries", "Frameworks", "Cloud", "Mobile", "Servers", "DBs", "PWAs", "UX", "UI" ]
     },
