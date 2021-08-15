@@ -31,7 +31,8 @@
 
 const erosmlima = {
     code: [
-        "Javascript",
+        "C",
+	"Javascript",
         "Typescript",
         "Python"
     ],
@@ -41,17 +42,22 @@ const erosmlima = {
 	    "Animations",
 	    "React",
 	    "Redux",
-	    "React Native",	    
             "Bootstrap"
         ],
         backEnd: [
             "NodeJs",
 	    "ExpessJs"
             "Django",
+	    "Elixir",
 	    "CRUD JSON",
 	    "APIs"
         ],
-        databases: [ "GraphQL", "MySQL", "SQLite", "JSON", "PostgreSQL", "MongoDB" ],
+	mobile: [
+	    "React Native",	    
+	    "Android",
+	    "Kotlin"
+	]
+        databases: [ "GraphQL", "MySQL", "SQLite", "JSON", "PostgreSQL", "MongoDB", "Firebase" ],
         misc: ["Git", "Libraries", "Frameworks", "Cloud", "Mobile", "Servers", "DBs", "PWAs", "UX", "UI" ]
     },
 };
