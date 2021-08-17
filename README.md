@@ -52,7 +52,7 @@ const erosmlima = {
 	    "APIs"
         ],
 	desktop: [
-		"Electron"		
+	    "Electron"		
 	],
 	mobile: [
 	    "React Native",	    
