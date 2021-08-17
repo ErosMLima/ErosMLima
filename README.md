@@ -31,7 +31,7 @@
 
 const erosmlima = {
     code: [
-        "C",
+        "C#",
 	"Javascript",
         "Typescript",
         "Python"
@@ -45,13 +45,15 @@ const erosmlima = {
             "Bootstrap"
         ],
         backEnd: [
-            "NodeJs",
-	    "ExpessJs"
+            "Node",
+	    "Expess"
             "Django",
-	    "Elixir",
-	    "CRUD JSON",
+	    "JSON",
 	    "APIs"
         ],
+	desktop: [
+		"Electron"		
+	],
 	mobile: [
 	    "React Native",	    
 	    "Android",
