@@ -2,10 +2,7 @@
 <p align="center">
     <img width="550" height="350" src="https://i.pinimg.com/originals/30/b8/17/30b8174c6f1a07e0af9bcf41fec3a5f5.gif">
 	
-	<img width:"550" height="350" src="https://media-exp1.licdn.com/dms/image/C4E22AQFmClPiAG2u0A/feedshare-shrink_800/0/1632067505171?e=1634774400&v=beta&t=aA9SY0KwjEFLFTJK0txGgANVO9fBBFT9C0cACmZvcB4">
-	
-	
-	<img width:"550" height="350" src="https://i.pinimg.com/originals/b1/0a/2f/b10a2f44ef82ab047f607fb2e65ad096.gif>
+    <img width:"550" height="350" src="https://i.pinimg.com/originals/b1/0a/2f/b10a2f44ef82ab047f607fb2e65ad096.gif>
 </p>
 
 
