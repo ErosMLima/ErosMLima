@@ -35,8 +35,8 @@
 const erosmlima = {
     code: [
         "C#",
-	"Javascript",
-        "Typescript",
+	"JavaScript",
+        "TypeScript",
         "Python"
     ],
     technologies: {
