@@ -59,7 +59,9 @@ const erosmlima = {
 	],
 	mobile: [
 	    "React Native",	    
-	    "Android",
+	    "iOS",
+	    "Swift", (soon)
+	    "X-Code", (soon)
 	    "Kotlin"
 	],
         databases: [ "GraphQL", "MySQL", "SQLite", "JSON", "PostgreSQL", "MongoDB", "Firebase" ],
